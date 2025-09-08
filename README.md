@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**hachimiking/hachimiking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 自我介绍
+**兴趣爱好**：
+- 打游戏、听音乐、看书、吃好吃的（美美恰米）、下围棋
 
-Here are some ideas to get you started:
+- 围棋业余5段，二级运动员，最高曾获广东省04年组第五名。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**学习经历**
+
+- 大学期间参加ACM竞赛，获得了icpc和ccpc**金牌**，在程序设计竞赛（算法竞赛）方面的奖项十分丰富
+
+- 熟练使用C++/C、python等编程语言，代码能力强
+
+- 深入了解计算机网络、人工智能、操作系统、计算机组成原理、数据结构等方面的专业知识
