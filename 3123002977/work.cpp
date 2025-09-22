@@ -67,7 +67,7 @@ void write_file(const string &file_path, double ans) {
     if (!file.is_open()) {
         throw runtime_error("无法打开文件: " + file_path);
     }
-    file << fixed << setprecision(2) << ans;
+    file << fixed << setprecision(4) << ans;
     file.close();
 }
 
@@ -106,6 +106,5 @@ signed main(int argc, char *argv[]) {
         cerr << "错误: " << e.what() << endl;
         return 1;
     }
-
     return 0;
 }
